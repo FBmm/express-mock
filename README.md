@@ -6,7 +6,7 @@
 
 ```bash
 # 克隆项目
-git clone 
+git clone git@github.com:FBmm/express-mock.git
 
 # 进入项目
 cd express-mock
